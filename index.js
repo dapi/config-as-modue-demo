@@ -1,4 +1,4 @@
-import { backendUrl } from "/config.js";
+import { backendUrl } from "./config.js";
 
 console.log("Loaded index.js");
 
